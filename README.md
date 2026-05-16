@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nihar Sakhreliya</h1>
-<h3 align="center">A passionate cybersecurity   Enthusiast from India</h3>
-
-[![An image of @nihar1435b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nihar1435b)](https://holopin.io/@nihar1435b)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sakhreliya-Nihar&label=Profile%20views&color=0e75b6&style=flat" alt="nihar" /> </p>
 
 <p align="center">
-  <a href="https://linktr.ee/nihar_butani" target="blank"><img align="center" src="https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="nihar-butani-linktree" /></a>
-  <a href="https://www.linkedin.com/in/nihar-butani/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nihar-butani-linkedin" /></a>
+  <a href="https://linktr.ee/nihar_sakhreliya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="nihar-sakhreliya-linktree" /></a>
+  <a href="https://www.linkedin.com/in/nihar-sakhreliya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nihar-sakhreliya-linkedin" /></a>
   <a href="https://twitter.com/your_twitter_username" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="your_twitter_username" /></a>
 </p>
 
