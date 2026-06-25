@@ -110,6 +110,4 @@ I'm a **Cybersecurity Researcher** and **Full-Stack Developer** from Surat, Indi
 
 ---
 
-<p align="center">
-  <i>⚡ Fun fact: I believe `Ctrl + S` is the most important in the universe.</i>
-</p>
+
