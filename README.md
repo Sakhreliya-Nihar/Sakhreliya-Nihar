@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://hackerone.com/" target="_blank">
-    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
@@ -106,12 +104,12 @@ I'm a **Cybersecurity Researcher** and **Full-Stack Developer** from Surat, Indi
 ```text
 🔍 Bug Bounty        ██████████████░░   Active on HackerOne
 🤖 AI + Security     ████████████░░░░   Automation & Agent Integration
-🌐 Web Development   ██████████░░░░░░   Real-time Chat App (in progress)
+🌐 Web Development   ██████████░░░░░░   Real-time Devsecops with ai
 📖 CVE Research      ████████░░░░░░░░   Ongoing
 ```
 
 ---
 
 <p align="center">
-  <i>🔐 "Security is not a product, but a process." — Bruce Schneier</i>
+  <i>⚡ Fun fact: I believe `Ctrl + S` is the most important in the universe.</i>
 </p>
