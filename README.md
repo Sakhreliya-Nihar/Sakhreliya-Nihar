@@ -27,11 +27,11 @@
 
 I'm a **Cybersecurity Researcher** and **Full-Stack Developer** from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities on **HackerOne**, conduct penetration tests, and ship production-grade web applications.
 
-- 🔭 Currently building a **Real-time Chat Application** & **AI-powered Security Testing Automation**
-- 🌱 Deep-diving into **AI agents, Claude Code workflows, adaptive false-positive reduction, and real-time TPR optimization**
+- 🔭 Currently building a **AI integrated SIEM solution for SMEs** 
+- 🌱 Deep-diving into **AI agents, Github actions, adaptive false-positive reduction**
 - 🐛 Active bug bounty hunter on **HackerOne** — targeting web apps, APIs, and LMS platforms
 - 👯 Open to collaborating on **open-source security tools** and **web development** projects
-- 🎯 Methodologies: **MITRE ATT&CK · OWASP Top 10 · PTES**
+- 🎯 Methodologies: **MITRE ATT&CK · OWASP Top 10 **
 - 💬 Ask me about **Python, Bash scripting, DSA, offensive/defensive security tools**
 - 📫 Reach me: **niarsakhreliya4@gmail.com**
 - ⚡ Fun fact: I believe `Ctrl + S` is the most important shortcut in the universe
