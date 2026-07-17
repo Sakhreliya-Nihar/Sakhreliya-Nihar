@@ -25,10 +25,10 @@
 
 > *"The quieter you become, the more you are able to hear."*
 
-I'm a **Cybersecurity Researcher** and **Full-Stack Developer** from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities on **HackerOne**, conduct penetration tests, and ship production-grade web applications.
+I'm a **Cybersecurity Researcher** and **Software Tester** from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities on **HackerOne**, conduct penetration tests, and ship production-grade web applications.
 
 - 🔭 Currently building a **AI integrated SIEM solution for SMEs** 
-- 🌱 Deep-diving into **AI agents, Github actions, adaptive false-positive reduction**
+- 🌱 Deep-diving into **AI agents, Github actions, CI/CD, Software testing, adaptive false-positive reduction**
 - 🐛 Active bug bounty hunter on **HackerOne** — targeting web apps, APIs, and LMS platforms
 - 👯 Open to collaborating on **open-source security tools** and **web development** projects
 - 🎯 Methodologies: **MITRE ATT&CK · OWASP Top 10 **
@@ -54,7 +54,7 @@ I'm a **Cybersecurity Researcher** and **Full-Stack Developer** from Surat, Indi
   <img src="https://img.shields.io/badge/Nuclei-00BFFF?style=for-the-badge&logoColor=white" />
 </p>
 
-**Focus Areas:** Web App Pentesting · API Security · Vulnerability Assessment · CVE Research · Recon & OSINT · Bug Bounty Hunting
+**Focus Areas:** Software Testing · Manual/Automation Testing · Web App Pentesting · API Security · Vulnerability Assessment · CVE Research · Recon & OSINT · Bug Bounty Hunting
 
 ---
 
@@ -102,10 +102,10 @@ I'm a **Cybersecurity Researcher** and **Full-Stack Developer** from Surat, Indi
 ## 🎯 Current Focus
 
 ```text
-🔍 Bug Bounty        ██████████████░░   Active on HackerOne
-🤖 AI + Security     ████████████░░░░   Automation & Agent Integration
-🌐 Web Development   ██████████░░░░░░   Real-time Devsecops with ai
-📖 CVE Research      ████████░░░░░░░░   Ongoing
+🔍 Bug Bounty and testing        ██████████████░░   Active 
+🤖 AI + Security                 ████████████░░░░   Automation & Agent Integration
+🌐 Web Development               ██████████░░░░░░   Real-time Devsecops with ai
+📖 CVE Research                  ████████░░░░░░░░   Ongoing
 ```
 
 ---
