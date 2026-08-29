@@ -25,10 +25,10 @@
 
 > *"The quieter you become, the more you are able to hear."*
 
-I'm a **Cybersecurity Researcher** and **Software Tester** from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities on **HackerOne**, conduct penetration tests, and ship production-grade web applications.
+I'm a **Cybersecurity Researcher** and **Dev-Ops enginner from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities on **HackerOne**, conduct penetration tests, and ship production-grade web applications.
 
 - 🔭 Currently building a **AI integrated SIEM solution for SMEs** 
-- 🌱 Deep-diving into **AI agents, Github actions, CI/CD, Software testing, adaptive false-positive reduction**
+- 🌱 Deep-diving into **AI agents, Github actions, CI/CD, Aws secuirty, gcp**
 - 🐛 Active bug bounty hunter on **HackerOne** — targeting web apps, APIs, and LMS platforms
 - 👯 Open to collaborating on **open-source security tools** and **web development** projects
 - 🎯 Methodologies: **MITRE ATT&CK · OWASP Top 10 **
