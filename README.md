@@ -106,7 +106,7 @@ I'm a **Cybersecurity Researcher** and **Dev-Ops Enginner** from Surat, India �
 ```text
 🔍 Bug Bounty and testing        ██████████████░░   Active 
 🤖 AI + Security                 ████████████░░░░   Automation & Agent Integration
-🌐 Dev-Ops                       ██████████░░░░░░   Real-time Devsecops with ai
+🌐 DevsecOps                     ██████████░░░░░░   Real-time Devsecops with ai
 📖 CVE Research                  ████████░░░░░░░░   Ongoing
 ```
 
