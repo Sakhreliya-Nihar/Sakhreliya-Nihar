@@ -25,7 +25,7 @@
 
 > *"The quieter you become, the more you are able to hear."*
 
-I'm a **Cybersecurity Researcher** and **Dev-Ops enginner from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities on **HackerOne**, conduct penetration tests, and ship production-grade web applications.
+I'm a **Cybersecurity Researcher** and **Dev-Ops Enginner** from Surat, India 🇮🇳 — passionate about breaking things ethically and building them securely. I actively hunt vulnerabilities on **HackerOne**, conduct penetration tests, and ship production-grade web applications.
 
 - 🔭 Currently building a **AI integrated SIEM solution for SMEs** 
 - 🌱 Deep-diving into **AI agents, Github actions, CI/CD, Aws secuirty, gcp**
@@ -106,7 +106,7 @@ I'm a **Cybersecurity Researcher** and **Dev-Ops enginner from Surat, India 🇮
 ```text
 🔍 Bug Bounty and testing        ██████████████░░   Active 
 🤖 AI + Security                 ████████████░░░░   Automation & Agent Integration
-🌐 Web Development               ██████████░░░░░░   Real-time Devsecops with ai
+🌐 Dev-Ops                       ██████████░░░░░░   Real-time Devsecops with ai
 📖 CVE Research                  ████████░░░░░░░░   Ongoing
 ```
 
